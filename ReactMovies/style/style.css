@@ -1,0 +1,18 @@
+.search_bar {
+
+margin-top: 40px;
+margin-bottom: 20px;
+
+}
+
+li:hover {
+
+    background-color: darkgrey;
+}
+
+.title.list {
+
+    padding-top: 40px;
+    text-align: center;
+
+}
